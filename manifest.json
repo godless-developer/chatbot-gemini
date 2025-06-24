@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My Custom Chat Plugin",
+  "version": "1.0.0",
+  "description": "A chatbot UI component for websites.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}

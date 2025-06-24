@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.bot-message .message-text {
+  display: flex;
+  background: #f6f2ff;
+  border-radius: 13px 13px 13px 3px;
+}
+
+.user-message .message-text {
+  background: #6d4fc2;
+  border-radius: 13px 13px 3px 13px;
+}
